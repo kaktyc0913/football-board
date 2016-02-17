@@ -1,4 +1,6 @@
 {
+  "name": "Football Board",
+  "version": "0.1.3",
   "private": true,
   "engines": {
     "node": ">=0.12.0"
