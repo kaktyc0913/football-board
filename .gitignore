@@ -6,8 +6,7 @@ bower_components
 test/bower_components
 
 npm-debug.log
-
-*.jpg
+файлы
 
 *.psd
 app
